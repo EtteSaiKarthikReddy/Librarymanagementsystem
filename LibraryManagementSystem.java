@@ -272,7 +272,7 @@ public class LibraryManagementSystem {
                             " | Due Date: " + r.dueDate);
         }
     }
-
+// method to see all the registered users.
     static void viewallusers() {
         System.out.println(" no of users registered currently:");
         for (User user : users) {
