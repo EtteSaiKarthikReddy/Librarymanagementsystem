@@ -23,12 +23,12 @@ it is a simple console based Library Management System built using oops concepts
 ->view all the registered users
 <br>
 TECK STACK USED FOR BUILDING THIS APPLICATION
+
+
 1.java programming language
 <br>
-
 2.oops concepts (like class ,objects ,constructors)
 <br>
-
 3.collection frame works like java Arraylist
 <br>
 4.java inbuild package like Date and Time
