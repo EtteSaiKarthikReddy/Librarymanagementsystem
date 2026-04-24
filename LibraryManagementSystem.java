@@ -135,7 +135,7 @@ public class LibraryManagementSystem {
 
     static void viewBooks() {
 
-        System.out.println("\n------ BOOK LIST ------");
+        System.out.println("\n B O O K L I S T");
 
         for (Book b : books) {
 
@@ -243,7 +243,7 @@ public class LibraryManagementSystem {
         System.out.print("Enter Title or Author: ");
         String key = sc.nextLine().toLowerCase();
 
-        System.out.println("\n------ SEARCH RESULT ------");
+        System.out.println("\n SEARCH RESULT ");
 
         for (Book b : books) {
 
